@@ -55,7 +55,7 @@ class HomeView extends StatelessWidget {
                         verticalSpaceSmall,
                         SearchWidget(
                           text: model.searchText,
-                          hintText: 'Search company or business',
+                          hintText: 'Search  Album',
                           onChanged: model.searchCategory,
                         ),
                       ],
